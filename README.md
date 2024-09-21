@@ -1,2 +1,2 @@
 # gitlearning-demo
-Git learning demo
+Git learning demo.
